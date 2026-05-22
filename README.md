@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AgendaFácil 📅
 
 Sistema de Agendamento de Serviços — Projeto acadêmico com testes automatizados em JUnit 5.
@@ -134,3 +135,6 @@ git remote add origin https://github.com/seu-usuario/agendafacil.git
 git branch -M main
 git push -u origin main
 ```
+=======
+# agendafacil
+>>>>>>> 1162cc32b5b4fe6111197a97cb2094507eab83fa
